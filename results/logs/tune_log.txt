@@ -1,0 +1,221 @@
+Finetuning on 20 test tasks
+inner iteration: 0, Recon_loss = 341.2756042480469, KLD_loss = 4.6358323097229
+inner iteration: 1, Recon_loss = 241.8710479736328, KLD_loss = 4.652920722961426
+inner iteration: 2, Recon_loss = 171.08949279785156, KLD_loss = 4.657685279846191
+inner iteration: 3, Recon_loss = 131.33763122558594, KLD_loss = 4.666382789611816
+inner iteration: 4, Recon_loss = 117.4028549194336, KLD_loss = 4.637852668762207
+inner iteration: 5, Recon_loss = 114.53303527832031, KLD_loss = 4.600562572479248
+inner iteration: 6, Recon_loss = 110.2340087890625, KLD_loss = 4.55610990524292
+inner iteration: 7, Recon_loss = 108.56646728515625, KLD_loss = 4.568698406219482
+inner iteration: 8, Recon_loss = 108.2739486694336, KLD_loss = 4.517242908477783
+inner iteration: 9, Recon_loss = 108.19282531738281, KLD_loss = 4.503897666931152
+Task test loss: 120.72457885742188
+inner iteration: 0, Recon_loss = 490.5160217285156, KLD_loss = 4.268606662750244
+inner iteration: 1, Recon_loss = 376.8360595703125, KLD_loss = 4.278743267059326
+inner iteration: 2, Recon_loss = 288.08587646484375, KLD_loss = 4.273169994354248
+inner iteration: 3, Recon_loss = 227.04971313476562, KLD_loss = 4.272126197814941
+inner iteration: 4, Recon_loss = 193.2925262451172, KLD_loss = 4.270378112792969
+inner iteration: 5, Recon_loss = 172.9802703857422, KLD_loss = 4.278278350830078
+inner iteration: 6, Recon_loss = 165.6304168701172, KLD_loss = 4.298357963562012
+inner iteration: 7, Recon_loss = 160.999755859375, KLD_loss = 4.332099437713623
+inner iteration: 8, Recon_loss = 157.5385284423828, KLD_loss = 4.339253902435303
+inner iteration: 9, Recon_loss = 156.4118194580078, KLD_loss = 4.333592891693115
+Task test loss: 167.2162628173828
+inner iteration: 0, Recon_loss = 336.62103271484375, KLD_loss = 5.075756072998047
+inner iteration: 1, Recon_loss = 262.38897705078125, KLD_loss = 5.080845355987549
+inner iteration: 2, Recon_loss = 188.18630981445312, KLD_loss = 5.090121269226074
+inner iteration: 3, Recon_loss = 148.749755859375, KLD_loss = 5.085503578186035
+inner iteration: 4, Recon_loss = 129.6370086669922, KLD_loss = 5.080550670623779
+inner iteration: 5, Recon_loss = 124.32144927978516, KLD_loss = 5.040661811828613
+inner iteration: 6, Recon_loss = 127.19708251953125, KLD_loss = 5.0120720863342285
+inner iteration: 7, Recon_loss = 122.78559875488281, KLD_loss = 4.973177433013916
+inner iteration: 8, Recon_loss = 123.87688446044922, KLD_loss = 4.938215732574463
+inner iteration: 9, Recon_loss = 125.2640380859375, KLD_loss = 4.915736675262451
+Task test loss: 133.44720458984375
+inner iteration: 0, Recon_loss = 358.4983825683594, KLD_loss = 4.390615940093994
+inner iteration: 1, Recon_loss = 269.463134765625, KLD_loss = 4.396598815917969
+inner iteration: 2, Recon_loss = 202.1343994140625, KLD_loss = 4.388343811035156
+inner iteration: 3, Recon_loss = 156.89712524414062, KLD_loss = 4.386312961578369
+inner iteration: 4, Recon_loss = 132.71202087402344, KLD_loss = 4.373178005218506
+inner iteration: 5, Recon_loss = 125.527587890625, KLD_loss = 4.332568168640137
+inner iteration: 6, Recon_loss = 125.3459243774414, KLD_loss = 4.343575477600098
+inner iteration: 7, Recon_loss = 124.35491943359375, KLD_loss = 4.318309783935547
+inner iteration: 8, Recon_loss = 122.02528381347656, KLD_loss = 4.313050270080566
+inner iteration: 9, Recon_loss = 123.4109115600586, KLD_loss = 4.306856632232666
+Task test loss: 129.517333984375
+inner iteration: 0, Recon_loss = 589.5396728515625, KLD_loss = 5.494086742401123
+inner iteration: 1, Recon_loss = 455.33990478515625, KLD_loss = 5.5173211097717285
+inner iteration: 2, Recon_loss = 341.46368408203125, KLD_loss = 5.543345928192139
+inner iteration: 3, Recon_loss = 257.5814514160156, KLD_loss = 5.574784278869629
+inner iteration: 4, Recon_loss = 207.9337158203125, KLD_loss = 5.604959964752197
+inner iteration: 5, Recon_loss = 189.8318328857422, KLD_loss = 5.614669322967529
+inner iteration: 6, Recon_loss = 181.5741424560547, KLD_loss = 5.630820274353027
+inner iteration: 7, Recon_loss = 181.92225646972656, KLD_loss = 5.554630279541016
+inner iteration: 8, Recon_loss = 177.8605499267578, KLD_loss = 5.557336330413818
+inner iteration: 9, Recon_loss = 175.39080810546875, KLD_loss = 5.5022783279418945
+Task test loss: 188.4746856689453
+inner iteration: 0, Recon_loss = 268.3330993652344, KLD_loss = 4.0515971183776855
+inner iteration: 1, Recon_loss = 194.5552978515625, KLD_loss = 4.058302402496338
+inner iteration: 2, Recon_loss = 141.7722625732422, KLD_loss = 4.051692962646484
+inner iteration: 3, Recon_loss = 114.1374282836914, KLD_loss = 4.035900115966797
+inner iteration: 4, Recon_loss = 102.13542938232422, KLD_loss = 4.041820526123047
+inner iteration: 5, Recon_loss = 99.94564056396484, KLD_loss = 4.007477283477783
+inner iteration: 6, Recon_loss = 97.6307144165039, KLD_loss = 3.9916481971740723
+inner iteration: 7, Recon_loss = 98.9932632446289, KLD_loss = 3.963085889816284
+inner iteration: 8, Recon_loss = 94.67391204833984, KLD_loss = 3.9772865772247314
+inner iteration: 9, Recon_loss = 93.62887573242188, KLD_loss = 3.9710938930511475
+Task test loss: 106.51490783691406
+inner iteration: 0, Recon_loss = 305.2484436035156, KLD_loss = 4.2425150871276855
+inner iteration: 1, Recon_loss = 224.095703125, KLD_loss = 4.251349449157715
+inner iteration: 2, Recon_loss = 158.37144470214844, KLD_loss = 4.252736568450928
+inner iteration: 3, Recon_loss = 121.64757537841797, KLD_loss = 4.243197441101074
+inner iteration: 4, Recon_loss = 108.8380126953125, KLD_loss = 4.209001064300537
+inner iteration: 5, Recon_loss = 105.1790542602539, KLD_loss = 4.1842193603515625
+inner iteration: 6, Recon_loss = 102.68193817138672, KLD_loss = 4.172387599945068
+inner iteration: 7, Recon_loss = 98.2590560913086, KLD_loss = 4.134802341461182
+inner iteration: 8, Recon_loss = 100.16596984863281, KLD_loss = 4.1057562828063965
+inner iteration: 9, Recon_loss = 96.32196807861328, KLD_loss = 4.111823081970215
+Task test loss: 108.8207015991211
+inner iteration: 0, Recon_loss = 65.02082824707031, KLD_loss = 3.05949068069458
+inner iteration: 1, Recon_loss = 41.53974151611328, KLD_loss = 3.0288710594177246
+inner iteration: 2, Recon_loss = 29.750446319580078, KLD_loss = 2.9830322265625
+inner iteration: 3, Recon_loss = 25.756589889526367, KLD_loss = 2.944054126739502
+inner iteration: 4, Recon_loss = 26.583154678344727, KLD_loss = 2.868457794189453
+inner iteration: 5, Recon_loss = 27.112873077392578, KLD_loss = 2.8536651134490967
+inner iteration: 6, Recon_loss = 24.95820426940918, KLD_loss = 2.823655843734741
+inner iteration: 7, Recon_loss = 25.536903381347656, KLD_loss = 2.8080098628997803
+inner iteration: 8, Recon_loss = 23.72833824157715, KLD_loss = 2.7853281497955322
+inner iteration: 9, Recon_loss = 23.847309112548828, KLD_loss = 2.7550880908966064
+Task test loss: 31.92782974243164
+inner iteration: 0, Recon_loss = 444.16241455078125, KLD_loss = 3.8509328365325928
+inner iteration: 1, Recon_loss = 341.0236511230469, KLD_loss = 3.8569676876068115
+inner iteration: 2, Recon_loss = 258.7083435058594, KLD_loss = 3.860985517501831
+inner iteration: 3, Recon_loss = 202.8704071044922, KLD_loss = 3.856426239013672
+inner iteration: 4, Recon_loss = 172.65097045898438, KLD_loss = 3.8531746864318848
+inner iteration: 5, Recon_loss = 155.7454071044922, KLD_loss = 3.853876829147339
+inner iteration: 6, Recon_loss = 158.80886840820312, KLD_loss = 3.8402345180511475
+inner iteration: 7, Recon_loss = 153.50389099121094, KLD_loss = 3.8575775623321533
+inner iteration: 8, Recon_loss = 149.70138549804688, KLD_loss = 3.8525452613830566
+inner iteration: 9, Recon_loss = 149.15444946289062, KLD_loss = 3.8375332355499268
+Task test loss: 158.12045288085938
+inner iteration: 0, Recon_loss = 404.7292175292969, KLD_loss = 4.782285213470459
+inner iteration: 1, Recon_loss = 299.6470947265625, KLD_loss = 4.783825397491455
+inner iteration: 2, Recon_loss = 216.45703125, KLD_loss = 4.780328273773193
+inner iteration: 3, Recon_loss = 163.45835876464844, KLD_loss = 4.773576259613037
+inner iteration: 4, Recon_loss = 141.5681610107422, KLD_loss = 4.7663140296936035
+inner iteration: 5, Recon_loss = 132.0015869140625, KLD_loss = 4.7446160316467285
+inner iteration: 6, Recon_loss = 132.5198516845703, KLD_loss = 4.711606502532959
+inner iteration: 7, Recon_loss = 131.5188446044922, KLD_loss = 4.696939468383789
+inner iteration: 8, Recon_loss = 126.91694641113281, KLD_loss = 4.687646865844727
+inner iteration: 9, Recon_loss = 124.10615539550781, KLD_loss = 4.673823833465576
+Task test loss: 135.72125244140625
+inner iteration: 0, Recon_loss = 325.5677185058594, KLD_loss = 5.869628429412842
+inner iteration: 1, Recon_loss = 239.7072296142578, KLD_loss = 5.8702778816223145
+inner iteration: 2, Recon_loss = 172.66294860839844, KLD_loss = 5.868150234222412
+inner iteration: 3, Recon_loss = 145.39414978027344, KLD_loss = 5.848643779754639
+inner iteration: 4, Recon_loss = 131.7691650390625, KLD_loss = 5.8197550773620605
+inner iteration: 5, Recon_loss = 128.52403259277344, KLD_loss = 5.7961201667785645
+inner iteration: 6, Recon_loss = 123.70094299316406, KLD_loss = 5.7674736976623535
+inner iteration: 7, Recon_loss = 121.90677642822266, KLD_loss = 5.7523651123046875
+inner iteration: 8, Recon_loss = 121.4904556274414, KLD_loss = 5.732264995574951
+inner iteration: 9, Recon_loss = 119.1905746459961, KLD_loss = 5.710608005523682
+Task test loss: 137.14320373535156
+inner iteration: 0, Recon_loss = 174.9319305419922, KLD_loss = 3.6346237659454346
+inner iteration: 1, Recon_loss = 117.82357025146484, KLD_loss = 3.639864444732666
+inner iteration: 2, Recon_loss = 85.45196533203125, KLD_loss = 3.6460659503936768
+inner iteration: 3, Recon_loss = 71.88917541503906, KLD_loss = 3.680345296859741
+inner iteration: 4, Recon_loss = 69.18997955322266, KLD_loss = 3.7004036903381348
+inner iteration: 5, Recon_loss = 67.9248046875, KLD_loss = 3.7045822143554688
+inner iteration: 6, Recon_loss = 65.39080047607422, KLD_loss = 3.7304863929748535
+inner iteration: 7, Recon_loss = 64.1436767578125, KLD_loss = 3.707595109939575
+inner iteration: 8, Recon_loss = 61.91767501831055, KLD_loss = 3.7229766845703125
+inner iteration: 9, Recon_loss = 62.80532455444336, KLD_loss = 3.6848297119140625
+Task test loss: 73.94497680664062
+inner iteration: 0, Recon_loss = 297.7840270996094, KLD_loss = 4.238456726074219
+inner iteration: 1, Recon_loss = 226.305419921875, KLD_loss = 4.2297844886779785
+inner iteration: 2, Recon_loss = 157.19081115722656, KLD_loss = 4.217648983001709
+inner iteration: 3, Recon_loss = 121.51859283447266, KLD_loss = 4.194982051849365
+inner iteration: 4, Recon_loss = 107.9164810180664, KLD_loss = 4.16795015335083
+inner iteration: 5, Recon_loss = 106.36286926269531, KLD_loss = 4.1577863693237305
+inner iteration: 6, Recon_loss = 100.366943359375, KLD_loss = 4.141435146331787
+inner iteration: 7, Recon_loss = 101.8547134399414, KLD_loss = 4.121923923492432
+inner iteration: 8, Recon_loss = 98.12425231933594, KLD_loss = 4.101838111877441
+inner iteration: 9, Recon_loss = 97.81009674072266, KLD_loss = 4.096834659576416
+Task test loss: 105.73774719238281
+inner iteration: 0, Recon_loss = 434.1930236816406, KLD_loss = 4.761168003082275
+inner iteration: 1, Recon_loss = 326.5795593261719, KLD_loss = 4.766005992889404
+inner iteration: 2, Recon_loss = 253.7903594970703, KLD_loss = 4.762935161590576
+inner iteration: 3, Recon_loss = 192.1586456298828, KLD_loss = 4.7637248039245605
+inner iteration: 4, Recon_loss = 165.8222198486328, KLD_loss = 4.75520658493042
+inner iteration: 5, Recon_loss = 153.5308074951172, KLD_loss = 4.748958110809326
+inner iteration: 6, Recon_loss = 144.52162170410156, KLD_loss = 4.715774059295654
+inner iteration: 7, Recon_loss = 145.81387329101562, KLD_loss = 4.702063083648682
+inner iteration: 8, Recon_loss = 139.69720458984375, KLD_loss = 4.68776798248291
+inner iteration: 9, Recon_loss = 143.4621124267578, KLD_loss = 4.6765666007995605
+Task test loss: 154.85302734375
+inner iteration: 0, Recon_loss = 394.06988525390625, KLD_loss = 4.029665470123291
+inner iteration: 1, Recon_loss = 295.2961120605469, KLD_loss = 4.0308837890625
+inner iteration: 2, Recon_loss = 221.5786590576172, KLD_loss = 4.030980587005615
+inner iteration: 3, Recon_loss = 164.60189819335938, KLD_loss = 4.027623653411865
+inner iteration: 4, Recon_loss = 143.4566192626953, KLD_loss = 4.0160136222839355
+inner iteration: 5, Recon_loss = 134.12942504882812, KLD_loss = 4.002806663513184
+inner iteration: 6, Recon_loss = 133.383056640625, KLD_loss = 4.016480922698975
+inner iteration: 7, Recon_loss = 136.0109100341797, KLD_loss = 4.012119770050049
+inner iteration: 8, Recon_loss = 132.9740753173828, KLD_loss = 4.0236334800720215
+inner iteration: 9, Recon_loss = 132.2516326904297, KLD_loss = 4.054484844207764
+Task test loss: 141.7013397216797
+inner iteration: 0, Recon_loss = 380.1021728515625, KLD_loss = 4.159896373748779
+inner iteration: 1, Recon_loss = 284.9202575683594, KLD_loss = 4.1768622398376465
+inner iteration: 2, Recon_loss = 206.30935668945312, KLD_loss = 4.160259246826172
+inner iteration: 3, Recon_loss = 157.86497497558594, KLD_loss = 4.138897895812988
+inner iteration: 4, Recon_loss = 132.71092224121094, KLD_loss = 4.119752407073975
+inner iteration: 5, Recon_loss = 123.1880111694336, KLD_loss = 4.076657295227051
+inner iteration: 6, Recon_loss = 118.88984680175781, KLD_loss = 4.123997211456299
+inner iteration: 7, Recon_loss = 119.34297943115234, KLD_loss = 4.108962535858154
+inner iteration: 8, Recon_loss = 115.10333251953125, KLD_loss = 4.088912487030029
+inner iteration: 9, Recon_loss = 117.5795669555664, KLD_loss = 4.05979585647583
+Task test loss: 124.18595886230469
+inner iteration: 0, Recon_loss = 253.52622985839844, KLD_loss = 3.4621429443359375
+inner iteration: 1, Recon_loss = 181.27540588378906, KLD_loss = 3.457014799118042
+inner iteration: 2, Recon_loss = 128.05197143554688, KLD_loss = 3.435713291168213
+inner iteration: 3, Recon_loss = 101.47911834716797, KLD_loss = 3.396634817123413
+inner iteration: 4, Recon_loss = 89.9272232055664, KLD_loss = 3.3472001552581787
+inner iteration: 5, Recon_loss = 88.80523681640625, KLD_loss = 3.2981724739074707
+inner iteration: 6, Recon_loss = 86.84635162353516, KLD_loss = 3.2851693630218506
+inner iteration: 7, Recon_loss = 87.44990539550781, KLD_loss = 3.270110845565796
+inner iteration: 8, Recon_loss = 90.03997039794922, KLD_loss = 3.3296024799346924
+inner iteration: 9, Recon_loss = 83.3440170288086, KLD_loss = 3.309528112411499
+Task test loss: 92.99960327148438
+inner iteration: 0, Recon_loss = 487.4860534667969, KLD_loss = 5.500786781311035
+inner iteration: 1, Recon_loss = 373.72393798828125, KLD_loss = 5.510851860046387
+inner iteration: 2, Recon_loss = 287.8506774902344, KLD_loss = 5.518243789672852
+inner iteration: 3, Recon_loss = 220.6305694580078, KLD_loss = 5.52466344833374
+inner iteration: 4, Recon_loss = 191.41920471191406, KLD_loss = 5.530067443847656
+inner iteration: 5, Recon_loss = 175.6871337890625, KLD_loss = 5.524852752685547
+inner iteration: 6, Recon_loss = 173.3939666748047, KLD_loss = 5.493414878845215
+inner iteration: 7, Recon_loss = 178.9438018798828, KLD_loss = 5.466179370880127
+inner iteration: 8, Recon_loss = 171.3220672607422, KLD_loss = 5.481198310852051
+inner iteration: 9, Recon_loss = 168.06614685058594, KLD_loss = 5.488589763641357
+Task test loss: 181.34571838378906
+inner iteration: 0, Recon_loss = 395.0608825683594, KLD_loss = 4.137418270111084
+inner iteration: 1, Recon_loss = 303.3463439941406, KLD_loss = 4.148491382598877
+inner iteration: 2, Recon_loss = 225.3980712890625, KLD_loss = 4.16099739074707
+inner iteration: 3, Recon_loss = 167.78207397460938, KLD_loss = 4.1711883544921875
+inner iteration: 4, Recon_loss = 148.66368103027344, KLD_loss = 4.1741743087768555
+inner iteration: 5, Recon_loss = 140.02027893066406, KLD_loss = 4.204554080963135
+inner iteration: 6, Recon_loss = 142.64892578125, KLD_loss = 4.183651924133301
+inner iteration: 7, Recon_loss = 133.81268310546875, KLD_loss = 4.189530849456787
+inner iteration: 8, Recon_loss = 130.51055908203125, KLD_loss = 4.227651119232178
+inner iteration: 9, Recon_loss = 133.01963806152344, KLD_loss = 4.207431316375732
+Task test loss: 142.10789489746094
+inner iteration: 0, Recon_loss = 230.17442321777344, KLD_loss = 3.4776229858398438
+inner iteration: 1, Recon_loss = 164.82180786132812, KLD_loss = 3.488187789916992
+inner iteration: 2, Recon_loss = 118.52873992919922, KLD_loss = 3.4880216121673584
+inner iteration: 3, Recon_loss = 91.61290740966797, KLD_loss = 3.4690346717834473
+inner iteration: 4, Recon_loss = 81.42549896240234, KLD_loss = 3.4390130043029785
+inner iteration: 5, Recon_loss = 79.30748748779297, KLD_loss = 3.385145664215088
+inner iteration: 6, Recon_loss = 81.32280731201172, KLD_loss = 3.352212905883789
+inner iteration: 7, Recon_loss = 77.61080169677734, KLD_loss = 3.353245258331299
+inner iteration: 8, Recon_loss = 78.11102294921875, KLD_loss = 3.338775634765625
+inner iteration: 9, Recon_loss = 75.8626937866211, KLD_loss = 3.3358514308929443
+Task test loss: 85.7558822631836
